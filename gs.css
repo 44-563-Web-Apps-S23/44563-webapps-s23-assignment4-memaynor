@@ -39,3 +39,17 @@ table {
     text-align: left;
     background-color: #f2f2f2;
   }
+
+  .betty:hover {
+    color: white;
+    background-color: #6699cc;
+    box-shadow: 0 0 10px #ff6600; /* orange shadow with 10px blur */
+    border: 2px solid #ff6600; /* orange border with 2px width */
+  }
+
+  .cotton:hover {
+    color: black;
+    background-color: #968d0f;
+    box-shadow: 0 0 10px #4400ff; /* orange shadow with 10px blur */
+    border: 2px solid #4400ff; /* orange border with 2px width */
+  }
